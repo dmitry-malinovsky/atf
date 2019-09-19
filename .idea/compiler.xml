@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="core" />
+        <module name="model" />
+        <module name="persistance" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="atf" target="1.5" />
+      <module name="core" target="1.5" />
+      <module name="model" target="1.5" />
+      <module name="persistance" target="1.5" />
+      <module name="ui" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
