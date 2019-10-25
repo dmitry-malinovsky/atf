@@ -13,7 +13,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="atf" target="1.5" />
-      <module name="core" target="1.5" />
+      <module name="core" target="1.8" />
+      <module name="frontend" target="1.5" />
       <module name="model" target="1.5" />
       <module name="persistance" target="1.5" />
       <module name="ui" target="1.5" />
